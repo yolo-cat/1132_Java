@@ -1,4 +1,4 @@
-public class SquareSum {
+public class CH6_Square {
   public static void main(String args[]) {
 
     // 計算 1-10 的平方和
